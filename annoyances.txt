@@ -8,14 +8,22 @@
 ! ----- ----- ----- Rules start here ----- ----- -----
 !
 ! Deepl translator popups and annoyances
+!
+www.deepl.com###lmt_pro_ad_container
+www.deepl.com###lmt__target_textarea__length_marker_pro_advertisement
 www.deepl.com##.dl_app_popup__content
 www.deepl.com##.dl_overlay_popup
+www.deepl.com###lmt_quotes_article
 www.deepl.com##.dl_app_popup
 www.deepl.com##.dl_pro__banner--card_elevated.dl_pro__banner--card
 www.deepl.com##.lmt--mobile-hidden
 www.deepl.com##.dl_top_element--wide.dl_footer
 www.deepl.com##.lmt__stickyMenubar_whiteBackground 
+www.deepl.com##.lmt__bottom_text--mobile.dl_visible_handheld_only
+www.deepl.com###lmt_quotes_article
+!
 ! Quora popup that prevents you from reading the next question
+!
 www.quora.com##.modal_signup_dialog.dialog
 www.quora.com##.new_web_signup_wall_design.modal_signup_background
 www.quora.com###__w2_wwf8yfdC26_background_wrapper > .vertical_alignment_wrapper
