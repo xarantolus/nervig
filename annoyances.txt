@@ -28,3 +28,7 @@ www.quora.com##.modal_signup_dialog.dialog
 www.quora.com##.new_web_signup_wall_design.modal_signup_background
 www.quora.com###__w2_wwf8yfdC26_background_wrapper > .vertical_alignment_wrapper
 www.quora.com##.vertical_alignment_wrapper._DialogSignupForm.BaseSignupForm
+!
+! Twitter Ads, from https://github.com/robonxt/CleanYourTwitter/blob/master/CleanYourTwitter.txt
+!
+mobile.twitter.com##[data-testid="tweet"]:has-text(/Promoted|Gesponsert|Реклама/)
