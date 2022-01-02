@@ -27,6 +27,7 @@ www.deepl.com##.frame--KoKc9.z-10.transition-all.transform.bg-white.shadow-xl.ov
 www.deepl.com##.sm\:p-0.text-center.pb-20.pt-4.px-4.min-h-screen.justify-center.items-center.flex > .inset-0.fixed
 www.deepl.com##.sm\:p-0.text-center.pb-20.pt-4.px-4.min-h-screen.justify-center.items-center.flex
 www.deepl.com##.overflow-y-auto.inset-0.fixed
+www.deepl.com###dl_career_container
 !
 ! Quora popup that prevents you from reading the next question
 !
@@ -38,3 +39,5 @@ www.quora.com##.vertical_alignment_wrapper._DialogSignupForm.BaseSignupForm
 ! Twitter Ads, from https://github.com/robonxt/CleanYourTwitter/blob/master/CleanYourTwitter.txt
 !
 mobile.twitter.com##[data-testid="tweet"]:has-text(/Promoted|Gesponsert|Реклама/)
+
+hyper-db.de##.snowflakes
