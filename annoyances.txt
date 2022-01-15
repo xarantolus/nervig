@@ -39,5 +39,12 @@ www.quora.com##.vertical_alignment_wrapper._DialogSignupForm.BaseSignupForm
 ! Twitter Ads, from https://github.com/robonxt/CleanYourTwitter/blob/master/CleanYourTwitter.txt
 !
 mobile.twitter.com##[data-testid="tweet"]:has-text(/Promoted|Gesponsert|Реклама/)
-
+!
+! Snowflake effects on TUM sites
+!
 hyper-db.de##.snowflakes
+artemis.ase.in.tum.de##.snowflakes
+!
+! Ads on LinkedIn (German version), english version is here: https://gist.github.com/jaydorsey/d728423051fbcb54f1abd53ed3920c9e
+!
+linkedin.com##:xpath(.//span[contains(@class, 'feed-shared-actor__sub-description') and text()[contains(.,'Anzeige')]]/../../../..)
