@@ -18,7 +18,7 @@ www.deepl.com##.dl_app_popup
 www.deepl.com##.dl_pro__banner--card_elevated.dl_pro__banner--card
 www.deepl.com##.lmt--mobile-hidden
 www.deepl.com##.dl_top_element--wide.dl_footer
-www.deepl.com##.lmt__stickyMenubar_whiteBackground 
+www.deepl.com##.lmt__stickyMenubar_whiteBackground
 www.deepl.com##.lmt__bottom_text--mobile.dl_visible_handheld_only
 www.deepl.com###lmt_quotes_article
 www.deepl.com##.opacity-50.bg-airblue.inset-0.absolute
@@ -28,6 +28,7 @@ www.deepl.com##.sm\:p-0.text-center.pb-20.pt-4.px-4.min-h-screen.justify-center.
 www.deepl.com##.sm\:p-0.text-center.pb-20.pt-4.px-4.min-h-screen.justify-center.items-center.flex
 www.deepl.com##.overflow-y-auto.inset-0.fixed
 www.deepl.com###dl_career_container
+deepl.com##headlessui-portal-root
 !
 ! Quora popup that prevents you from reading the next question
 !
